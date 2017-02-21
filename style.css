@@ -1,0 +1,24 @@
+.top {
+    width: 100%;
+    height: 100px;
+    background-color: black;
+}
+.left {
+    float:left;
+    height: 100vh;
+    width: 100px;
+    background-color: gainsboro;
+}
+.right {
+    float: right;
+    width: 100px;
+  height:100vh;
+    background-color: gainsboro;
+}
+.bottom {
+  margin-top: 100%;
+height: 100px;
+    width:100%;
+    background-color:  black;
+
+}
